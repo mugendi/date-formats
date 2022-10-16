@@ -25,7 +25,7 @@ For example, a user might want to render an article's date of publication in a v
 Of course first install the module ```yarn add date.formats```
 
 ```javascript
-const DF = require('date-formats');
+const DF = require('extended-date-formats');
 
 // Initialize with a specific date
 let date = DF('2022-10-16T00:45:49.157Z');
