@@ -1,5 +1,5 @@
 {
-  "name": "date-formats",
+  "name": "@nguru/date-formats",
   "version": "1.0.0",
   "description": "Extend the regular date with extra and useful formats with dayJs",
   "main": "index.js",
